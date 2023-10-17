@@ -5,25 +5,32 @@ header {
 }
 
 /* main */
-#jumbo {
+.green {
     background: #58B99E;
     color: white;
 }
 
 .my-img {
-    height: 35vh;
+    height: 30vh;
 }
 
 .my-white-line {
     background-color: white;
     height: 0.3vh;
-    width: 10vw;
-    border-radius: 15%;
+    width: 15vw;
 } 
 
 .my-black-line {
     background-color: black;
     height: 0.3vh;
-    width: 10vw;
-    border-radius: 15%;
+    width: 15vw;
 } 
+
+.message {
+    height: 10rem;
+}
+
+.button {
+    background: #58B99E;
+    color: white;
+}
