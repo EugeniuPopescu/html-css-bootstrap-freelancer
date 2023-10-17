@@ -34,3 +34,19 @@ header {
     background: #58B99E;
     color: white;
 }
+
+/* footer */
+#top {
+    background: #3F546A;
+    color: white;
+}
+
+.link {
+    color: #58B99E;
+    text-decoration: none;
+}
+
+#bottom {
+    background: #303E4E;
+    color: white;
+}
