@@ -1,4 +1,29 @@
+/* header */
 header {
     background: #303E4E;
     color: white;
 }
+
+/* main */
+#jumbo {
+    background: #58B99E;
+    color: white;
+}
+
+.my-img {
+    height: 35vh;
+}
+
+.my-white-line {
+    background-color: white;
+    height: 0.3vh;
+    width: 10vw;
+    border-radius: 15%;
+} 
+
+.my-black-line {
+    background-color: black;
+    height: 0.3vh;
+    width: 10vw;
+    border-radius: 15%;
+} 
