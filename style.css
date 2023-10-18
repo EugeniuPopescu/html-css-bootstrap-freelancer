@@ -11,7 +11,7 @@ header {
 }
 
 .my-img {
-    height: 30vh;
+    max-width: 15rem;
 }
 
 .my-white-line {
