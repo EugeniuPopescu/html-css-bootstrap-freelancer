@@ -4,6 +4,23 @@ header {
     color: white;
 }
 
+.my-nav-link {
+    display: block;
+    padding: 0  0.5rem;
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+ul > li > a {
+    color: white;
+}
+
+ul > li > a:hover {
+    color: #58B99E;
+}
+
 /* main */
 .green {
     background: #58B99E;
@@ -24,10 +41,6 @@ header {
     background-color: black;
     height: 0.3vh;
     width: 15vw;
-} 
-
-.message {
-    height: 10rem;
 }
 
 .my-form-control {
